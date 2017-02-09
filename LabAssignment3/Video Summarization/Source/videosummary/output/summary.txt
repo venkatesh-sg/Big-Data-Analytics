@@ -1,0 +1,35 @@
+
+Main Frame 1 is about:
+street
+road
+city
+police
+building
+
+Main Frame 2 is about:
+outdoors
+military
+transportation system
+road
+no person
+
+Main Frame 3 is about:
+blur
+car
+hurry
+transportation system
+road
+
+Main Frame 4 is about:
+blur
+auto racing
+race
+road
+transportation system
+
+Main Frame 5 is about:
+blur
+transportation system
+auto racing
+road
+race
