@@ -10,3 +10,5 @@ Lab3-https://github.com/venkatesh-sg/Big-Data-Analytics-Lab-Assignments/wiki/Lab
 Lab4-https://github.com/venkatesh-sg/Big-Data-Analytics-Lab-Assignments/wiki/LabAssignment4
 
 Lab5-https://github.com/venkatesh-sg/Big-Data-Analytics-Lab-Assignments/wiki/LabAssignment5
+
+Lab6-https://github.com/venkatesh-sg/Big-Data-Analytics-Lab-Assignments/wiki/LabAssignment6
