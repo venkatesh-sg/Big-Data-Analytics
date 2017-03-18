@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_00b06d3f060865ec3778d5acc6f62a0643ba0379\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_f5207acc665bc61a87f79830f04fb788a3fe7b76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_b43318874961ebfbeb4cfb67c5823eee7b64d3b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="061fae7d119c0c8be76f521eebcd4b4a238ae95d">
+        <dex dex="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_54d42b72e7999ca0b694722f60748b8daecc5526\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_aef5a0c0134c0d4d89999f056d896acca00209f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_e37dd0d3b0cfe034ff82e1756b2373dcf537e030\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_7dc312a19fbfc78e22f472cbbdf84b8655edac01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_3ead455b61c3e9c2a882549c1071de206bf365da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidra\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_e4b9e37318c4098f027d58c093a3e59083bdb9d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\exploded-aar\com.google.android.exoplayer\exoplayer\r1.5.10\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d2ea9cdd5b272666e03c7977440b494b63db77c">
+        <dex dex="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.exoplayer-exoplayer-r1.5.10_6a2faf33cdae05e09a1232df5a14371ae1172c2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_827f65a400f42cd9d0a6d42acaeed4eb54718198\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidra\.gradle\caches\modules-2\files-2.1\com.google.protobuf.nano\protobuf-javanano\3.0.0-alpha-7\52587934797e3433992a9d69178a1471e4a8f85d\protobuf-javanano-3.0.0-alpha-7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="52587934797e3433992a9d69178a1471e4a8f85d">
+        <dex dex="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\protobuf-javanano-3.0.0-alpha-7_9353af983f91f2800ad8fdbea4ed09ec32c5b615\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_8ce6dee172c015b74a953422744b1149822029aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd4f367e1783c6a2bbcf81680f1ea040f7fca65a">
+        <dex dex="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3a87d042991253b0cdccb70e500ab999e26c92e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_5a2105cfbc14f128f1254b960c1eb8bc3b3df55a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_9bde993ffe7a63f1f4d5bb7e01c45533aaaa9744\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\sidra\Desktop\VideoApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_69015ad7e4e1413b144ca6e5bfd0472272c7ad4b\classes.dex" />
+    </item>
+
+</items>
