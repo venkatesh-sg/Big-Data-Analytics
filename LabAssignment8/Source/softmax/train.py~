@@ -92,7 +92,7 @@ trainwriter=tf.summary.FileWriter('Output'+'/logs/train',sess.graph)
 init = tf.global_variables_initializer()
 sess.run(init)
 print("Training")
-for i in range(100):
+for i in range(200):
     mask = np.random.choice([True, False], len(Images), p=[0.10, 0.90])
     trainImages = Images[mask]
     trainLabels = Labels[mask]

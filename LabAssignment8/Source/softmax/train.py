@@ -7,7 +7,7 @@ sess = tf.Session()
 tf.logging.set_verbosity(tf.logging.INFO)
 
 
-rootdir = 'TestData/'
+rootdir = 'Data/'
 TotalImage=0
 TotalLabel=-1
 
