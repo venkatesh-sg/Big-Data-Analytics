@@ -17,4 +17,4 @@ see [TF Model reference](https://www.tensorflow.org/tutorials/image_retraining) 
 
 
 ###  Demo screenshots
-![IMG](http://i68.tinypic.com/2zxo3td.jpg)
+![IMG](https://github.com/venkatesh-sg/Big-Data-Analytics-Lab-Assignments/blob/master/LabAssignment10/Documentation/webapp/webapp.png)
