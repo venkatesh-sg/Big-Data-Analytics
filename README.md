@@ -20,3 +20,4 @@ Lab8-https://github.com/venkatesh-sg/Big-Data-Analytics-Lab-Assignments/wiki/Lab
 
 Lab9-https://github.com/venkatesh-sg/Big-Data-Analytics-Lab-Assignments/wiki/LabAssignment9
 
+Lab10-https://github.com/venkatesh-sg/Big-Data-Analytics-Lab-Assignments/wiki/LabAssignment10
